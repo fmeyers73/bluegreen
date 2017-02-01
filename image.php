@@ -9,6 +9,7 @@ $green = imagecolorallocate($im, 0, 255, 0);
 imagefilledrectangle($im, 0, 0, 199, 199, $blue);
 //imagefilledrectangle($im, 0, 0, 199, 199, $green);
 //frank
+//frank2
 
 // Save the image
 header('Content-Type: image/png');
